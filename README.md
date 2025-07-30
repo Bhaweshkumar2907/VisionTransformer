@@ -23,3 +23,6 @@ This project:
   - Semantic Segmentation (e.g., flooded vs. non-flooded regions)
 - **Loss Functions**: CrossEntropy, Dice Loss
 - **Optimization**: AdamW with learning rate scheduler
+
+Open this Project in Google collab for better understanding
+https://colab.research.google.com/drive/1J4PZ2A-aTzvWpC_GR6djb7VG-ChpL5Q7?usp=sharing
